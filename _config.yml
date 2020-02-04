@@ -6,6 +6,8 @@ header_pages:
   - index.md
   - about.md
 
+footer: '<i class="fa fa-bitbucket"></i>'
+
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 #style: light # dark (default) or light
