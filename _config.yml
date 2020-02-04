@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: '<i class="fa fa-bitbucket"></i>'
+footer: '<i class="fa fa-bitbucket"><a href="https://twitter.com/">twitter</a></i>'
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
