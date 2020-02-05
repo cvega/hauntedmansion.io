@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-# WELCOME FOOLISH MORTAL
+# WELCOME, FOOLISH MORTALS
 
 ```
 
